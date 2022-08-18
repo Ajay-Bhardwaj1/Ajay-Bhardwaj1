@@ -20,6 +20,10 @@
   </a>
 <a href="https://instagram.com/ajay_.bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_.bhardwaj" height="20" width="30" />
   </a>
+  
+  <a href="(https://twitter.com/ajay_bhardwaj0" target="blank">
+    <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="ajay_.bhardwaj" height="30" width="30" />
+  </a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
