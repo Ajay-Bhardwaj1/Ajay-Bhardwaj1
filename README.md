@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on **java**
 - 🌱 I’m currently learning **DSA/Java/sql**
-- 🤔 I’m looking for help with **Animal Classification sing Score level fusion** 
+- 🤔 I’m looking for help with **Animal Classification uing Score level fusion** 
 - 💬 Ask me about **Cloud Computing**
 - 📫 How to reach me:ajaybhardwaj2542002@gmail.com
 - ⚡ Fun fact:**Circle**
