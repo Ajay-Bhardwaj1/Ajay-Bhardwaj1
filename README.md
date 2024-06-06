@@ -4,10 +4,10 @@
 
 <p>
   
-- 🔭 I’m currently working on **java**
-- 🌱 I’m currently learning **DSA/Java/sql**
-- 🤔 I’m looking for help with **Animal Classification using Score level fusion** 
-- 💬 Ask me about **Cloud Computing**
+- 🔭 I’m currently working on **IICS/Snowflake/PowerBI**
+- 🌱 I’m currently learning **IICS/AWS/BigData**
+- 🤔 I’m looking for help with **IICS/MDM** 
+- 💬 Ask me about **Cloud Computing/BigData**
 - 📫 How to reach me:ajaybhardwaj2542002@gmail.com
 - ⚡ Fun fact:**Circle**
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay-bhardwaj1&show_icons=true&locale=en" alt="ajay-bhardwaj1" />
