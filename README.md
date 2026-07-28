@@ -4,9 +4,9 @@
 
 <p>
   
-- 🔭 I’m currently working on **IICS/Snowflake/PowerBI**
-- 🌱 I’m currently learning **IICS/AWS/BigData**
-- 🤔 I’m looking for help with **IICS/MDM** 
+- 🔭 I’m currently working on **IICS/Snowflake/PySpark/AWS/DBT**
+- 🌱 I’m currently learning **Pyspark/Azure/Databricks**
+- 🤔 I’m looking for help with **PySpark/Databricks** 
 - 💬 Ask me about **Cloud Computing/BigData**
 - 📫 How to reach me:ajaybhardwaj2542002@gmail.com
 - ⚡ Fun fact:**Circle**
