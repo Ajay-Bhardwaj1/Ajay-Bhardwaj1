@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning **Pyspark/Azure/Databricks**
 - 🤔 I’m looking for help with **PySpark/Databricks** 
 - 💬 Ask me about **Cloud Computing/BigData**
-- 📫 How to reach me:ajaybhardwaj2542002@gmail.com
+- 📫 How to reach me:<a href="mailto:ajaybhardwaj2542002@gmail.com" aria-label="Send Email">
+  <img src="https://stock.adobe.com/search?k=email+logo" alt="Email Icon" style="width: 24px; height: 24px;">
+</a>
 - ⚡ Fun fact:**Circle**
 <!-- <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay-bhardwaj1&show_icons=true&locale=en" alt="ajay-bhardwaj1" />
