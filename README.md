@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with **PySpark/Databricks** 
 - 💬 Ask me about **Cloud Computing/BigData**
 - 📫 How to reach me:<a href="mailto:ajaybhardwaj2542002@gmail.com" aria-label="Send Email">
-  <img src="https://stock.adobe.com/search?k=email+logo" alt="Email Icon" style="width: 24px; height: 24px;">
+  <img src="https://www.flaticon.com/free-icon/gmail_732200?term=email&related_id=732200" alt="Email Icon" style="width: 24px; height: 24px;">
 </a>
 - ⚡ Fun fact:**Circle**
 <!-- <p>
