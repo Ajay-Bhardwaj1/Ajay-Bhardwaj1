@@ -10,9 +10,9 @@
 - 💬 Ask me about **Cloud Computing/BigData**
 - 📫 How to reach me:ajaybhardwaj2542002@gmail.com
 - ⚡ Fun fact:**Circle**
-<p>
+<!-- <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay-bhardwaj1&show_icons=true&locale=en" alt="ajay-bhardwaj1" />
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
