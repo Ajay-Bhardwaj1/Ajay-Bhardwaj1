@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-kumar-26252019b/" target="blank">
+<a href="https://www.linkedin.com/in/ajay-kumar-26252019b/" target="blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/509/PNG/512/linkedin_icon-icons.com_49942.png" alt="https://www.linkedin.com/in/ajay-kumar-26252019b/" height="40" width="40" />
   </a>
 <a href="https://instagram.com/ajay_.bhardwaj" target="blank">
@@ -23,7 +23,7 @@
   </a>
   
   <a href="https://twitter.com/ajay_bhardwaj0" target="blank">
-    <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="ajay_.bhardwaj" height="30" width="30" />
+    <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="ajay_.bhardwaj" height="40" width="40" />
   </a>
 
 </p>
