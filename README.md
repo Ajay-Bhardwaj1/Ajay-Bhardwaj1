@@ -1,30 +1,3 @@
-# 👋 Hi, I'm Ajay Kumar
-### Data Engineer | IICS | Snowflake | Cloud  | ETL
-
-[LinkedIn](https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1) | [GitHub](https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1) | [Email](mailto:ajaybhardwaj2542002@gmail.com)
-
-## 👨💻 About Me
-Software Development Engineer with 3 years of experience in Java, Spring Boot, and full-stack development. Focused on microservices, cloud (AWS), and DevOps.
-
-- 📍 Location: Pune, India
-
-## 🛠 Tech Stack
-- Core: Java, Spring Boot, Spring Security, Hibernate
-- Databases: MySQL, PostgreSQL, Redis
-- Cloud & DevOps: AWS (EC2, S3), Docker, Jenkins, Git
-- Frontend: React, JavaScript, HTML/CSS
-- Tools: Maven, Postman, IntelliJ
-
-## 📫 How to Reach Me
-- Email: abhishek.ugalmugale.dev@gmail.com
-- LinkedIn: [Ajay Kumar](https://www.linkedin.com/in/ajay-kumar-26252019b/)
-
-
-
-
-
-<!--
-
 ### Hi there 👋 I'm Ajay
 ### About me 
 
@@ -92,4 +65,4 @@ Software Development Engineer with 3 years of experience in Java, Spring Boot, a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 </p>
--->
+
