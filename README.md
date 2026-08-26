@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** with **2.8 years** of hands-on experience building and maintaing scalable data pipelines and full-stack applications. Passionate about clean code, microservices architecture, and system design. Currently transitioning to focus on high-impact Full-stack/backend engineering work.
+I'm a **Data Engineer** with **2.8 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
 
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Data Engineer / Data Science / SDE 1
@@ -24,7 +24,7 @@ I'm a **Data Engineer** with **2.8 years** of hands-on experience building and m
 ## 🛠 Tech Stack
 
 ### Core Backend & Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![IICS](https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Pyspark](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
