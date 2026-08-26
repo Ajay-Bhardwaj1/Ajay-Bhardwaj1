@@ -83,7 +83,7 @@ I'm a **Data Engineer** with **2.8 years** of experience designing and optimizin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Bhardwaj1&layout=compact&langs_count=8&theme=dark" />
 </a>
 
-<a href="https://github.com/AbhishekU19">
+<a href="https://github.com/Ajay-Bhardwaj1">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Bhardwaj1&theme=dark" />
 </a>
 
