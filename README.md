@@ -107,7 +107,7 @@ I'm a **Data Engineer** with **2.8 years** of experience designing and optimizin
 
 - **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/ajay-kumar-26252019b/)
 - **GitHub**: [@Ajay-Bhardwaj1](https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1)
-- **Discord**: Available for technical discussions and collaborations
+- **Discord**: Open to: Data platform design • GenAI on Databricks • Snowflake projects
 
 ---
 
