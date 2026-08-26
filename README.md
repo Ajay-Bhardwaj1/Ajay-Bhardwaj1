@@ -1,68 +1,105 @@
-### Hi there 👋 I'm Ajay
-### About me 
+# 👋 Hi, I'm Ajay Kumar
 
+### Data Engineer | SQL | IICS | Pyspark | Databricks
 
-<p>
-  
-- 🔭 I’m currently working on **IICS/Snowflake/PySpark/AWS/DBT**
-- 🌱 I’m currently learning **Pyspark/Azure/Databricks**
-- 🤔 I’m looking for help with **PySpark/Databricks** 
-- 💬 Ask me about **Cloud Computing/BigData**
-- 📫 How to reach me: <a href="mailto:ajaybhardwaj2542002@gmail.com" aria-label="Send Email">Email
-</a>
-- ⚡ Fun fact:**Circle**
-<!-- <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay-bhardwaj1&show_icons=true&locale=en" alt="ajay-bhardwaj1" />
-</p> -->
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ajay-kumar-26252019b/" target="blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/509/PNG/512/linkedin_icon-icons.com_49942.png" alt="https://www.linkedin.com/in/ajay-kumar-26252019b/" height="40" width="40" />
-  </a>
-<a href="https://instagram.com/ajay_.bhardwaj" target="blank">
-  <img align="center" src="https://www.pngfind.com/pngs/m/2-23339_black-and-white-instagram-logo-instagram-logo-2018.png" alt="ajay_.bhardwaj" height="30" width="30" />
-  </a>
-  
-  <a href="https://twitter.com/ajay_bhardwaj0" target="blank">
-    <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="ajay_.bhardwaj" height="40" width="40" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekugalmugale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekU19)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abhishek.ugalmugale.dev@gmail.com)
 
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a>
-<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a> -->
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-</p>
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Data Engineer** with **2.8 years** of hands-on experience building and maintaing scalable data pipelines and full-stack applications. Passionate about clean code, microservices architecture, and system design. Currently transitioning to focus on high-impact Full-stack/backend engineering work.
+
+- 📍 **Location**: Pune, India  
+- 🎯 **Target Role**: Data Engineer / Data Science / SDE 1
+
+---
+
+## 🛠 Tech Stack
+
+### Core Backend & Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![IICS](https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Pyspark](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Airflow](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**Core Skills**: OOP • Collections • Streams API • Concurrency • RESTful APIs • Microservices Architecture
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Database Skills**: RDBMS Design • NoSQL Optimization • Caching Strategies • Query Optimization • Indexing
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**DevOps Skills**: EC2 • S3 • RDS • CI/CD Pipelines • Containerization • Container Registry • Linux
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend Skills**: React Hooks • REST API Integration • Responsive UI • State Management • ES6+
+
+### Tools & Utilities
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+**Other Tools**: dbt • Airflow • IICS/IDMC • Jira • Agile/Scrum • Confluence
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-Bhardwaj1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Bhardwaj1&layout=compact&langs_count=8&theme=dark" />
+</a>
+
+<a href="https://github.com/AbhishekU19">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Bhardwaj1&theme=dark" />
+</a>
+
+---
+
+## 📈 Continuous Learning
+
+- Advanced System Design patterns and scalability principles
+- Distributed tracing and observability (ELK Stack, Prometheus, Grafana)
+- Spring Cloud ecosystem and container orchestration
+- Performance profiling and JVM optimization
+- Software Architecture patterns (SOLID, Clean Code)
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: [abhishek.ugalmugale.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abhishek.ugalmugale.dev@gmail.com)
+
+- **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/ajay-kumar-26252019b/)
+- **GitHub**: [@Ajay-Bhardwaj1](https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1)
+- **Discord**: Available for technical discussions and collaborations
+
+---
+
+<div align="center">
+
+**Open to discussions on system design, backend architecture, and impactful projects** 🚀
+
+</div>
