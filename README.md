@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** with **2.8 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
+I'm a **Data Engineer** with **2.9 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
 
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Data Engineer / Data Science 
