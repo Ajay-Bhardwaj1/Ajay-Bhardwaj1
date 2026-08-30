@@ -78,7 +78,7 @@ I'm a **Data Engineer** with **2.9 years** of experience designing and optimizin
 
 ## 📊 GitHub Stats
 
-<a href="https://https://github.com/Ajay-Bhardwaj1/Ajay-Bhardwaj1">
+<a href="https://github.com/Ajay-Bhardwaj1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-Bhardwaj1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Bhardwaj1&layout=compact&langs_count=8&theme=dark" />
 </a>
