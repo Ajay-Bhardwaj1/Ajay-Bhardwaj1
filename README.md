@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay Kumar
 
-### Data Engineer | SQL | IICS | Pyspark | Databricks
+### Data Engineer | SQL | IICS | Pyspark | Databricks | dbt
 
 <div align="center">
 
