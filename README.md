@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay Kumar
 
-### Data Engineer | SQL | IICS | Pyspark | Databricks | dbt
+### Data Engineer | SQL | IICS | Pyspark | Databricks | dbt | Airflow
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I'm a **Data Engineer** with **2.9 years** of experience designing and optimizin
 
 
 
-### 🗄️ Data Storage & Databases
+### 🗄️ Data Storage | Databases | Data warehouse
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
@@ -56,7 +56,7 @@ I'm a **Data Engineer** with **2.9 years** of experience designing and optimizin
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 
-**DevOps Skills**: *EC2* • *S3* • *RDS* • *Azure Blob* • *CI/CD Pipelines* • *Containerization* • *Container Registry* • *Linux* • *Infrastructure as Code (Terraform)*
+**DevOps Skills**: *EC2* • *S3* • *RDS* • *Azure Blob* • *CI/CD Pipelines* • *Containerization* • *Container Registry* • *Linux* • *AWS*
 
 ### Data Processing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
