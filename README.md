@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** with **2.9 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
+I'm a **Data Engineer** with **2.10 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
 
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Data Engineer / Data Science 
@@ -41,7 +41,6 @@ I'm a **Data Engineer** with **2.9 years** of experience designing and optimizin
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
@@ -69,7 +68,8 @@ I'm a **Data Engineer** with **2.9 years** of experience designing and optimizin
 ### Tools & Utilities
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![IICS](https://img.shields.io/badge/Informatica-IICS-FF4D00?style=flat-square&logo=informatica&logoColor=white)
 
 
 **Other Tools**: dbt • Airflow • IICS/IDMC • Jira • Agile/Scrum • Confluence
