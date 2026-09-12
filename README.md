@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Ajay Kumar
 
 ### Data Engineer | SQL | IICS | Pyspark | Databricks | dbt | Airflow
@@ -17,7 +18,15 @@
 I'm a **Data Engineer** with **2.10 years** of experience designing and optimizing scalable data pipelines and warehouse solutions. Passionate about clean code, ETL architecture, and system design — now focused on high‑impact data engineering and backend solutions.
 
 - 📍 **Location**: Pune, India  
-- 🎯 **Target Role**: Data Engineer / Data Science 
+- 🎯 **Target Role**: Data Engineer / Data Science
+
+- ---
+### 🏆 Certifications & Credentials
+
+- ❄️ **Snowflake** | [SnowPro® Core Certified](https://achieve.snowflake.com/5e458c06-a820-477b-83f7-912ed6c682d6#acc.SobZ8257)
+- 🧱 **Databricks** | [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/1fe9f427-6b16-4293-9023-996ef8db5ebd#acc.jgWR7wE0)
+- ☁️ **Amazon Web Services** | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6af9f7dd-3b1f-4905-94f2-07f70410be7b/public_url)
+
 
 ---
 
