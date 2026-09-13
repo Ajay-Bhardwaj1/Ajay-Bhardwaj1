@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ajay Kumar
 
-### Data Engineer | SQL1 | IICS | Pyspark | Databricks | dbt | Airflow
+### Data Engineer | SQL | IICS | Pyspark | Databricks | dbt | Airflow
 
 <div align="center">
 
